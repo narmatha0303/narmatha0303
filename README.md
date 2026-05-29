@@ -29,7 +29,7 @@
 analyst = {
   "name"       : "Narmatha Annadurai",
   "role"       : "Data Analyst",
-  "location"   : "Tamil Nadu, India",
+  "location"   : "India",
   "philosophy" : "My story doesn't start with a title. It starts with curiosity.",
   "tools"      : ["Power BI ✅", "SQL ✅", "Excel ✅"],
   "currently"  : "Levelling up with PL-300 Power BI Certification 🎯",
