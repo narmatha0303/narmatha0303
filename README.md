@@ -154,19 +154,6 @@ Python       ██████░░░░░░░░░░░░░░  📚 
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narmatha0303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narmatha0303&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narmatha0303&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
-<br/>
 
 ## 🌐 Connect
 
