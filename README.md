@@ -166,8 +166,8 @@ Python       ██████░░░░░░░░░░░░░░  📚 
     <img src="https://img.shields.io/badge/Portfolio-Codebasics-6C63FF?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/narmatha0303/">
-    <img src="https://img.shields.io/badge/LeetCode-narmatha0303-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/Narmatha_Annadurai/">
+    <img src="https://img.shields.io/badge/LeetCode-Narmatha__Annadurai-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=narmatha0303&color=6C63FF&style=for-the-badge&label=Profile+Views"/>
