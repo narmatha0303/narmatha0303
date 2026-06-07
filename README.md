@@ -1,186 +1,196 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:48C9B0&height=180&section=header&text=Narmatha%20Annadurai&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Tamil%20Nadu%2C%20India&descAlignY=58&descColor=e0e0ff" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060612,30:1a0a3e,70:0d1f3c,100:060612&height=280&section=header&text=Narmatha%20Annadurai&fontSize=48&fontColor=f0e8ff&fontAlignY=45&desc=Data%20Analyst%20%7C%20Power%20BI%20%C2%B7%20SQL%20%C2%B7%20Python&descAlignY=62&descColor=a78bfa&animation=twinkling&stroke=7c3aed&strokeWidth=2"/>
+
 </div>
 
 <br/>
 
-<table align="center" width="96%">
-<tr>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/Role-Data%20Analyst-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/Stack-SQL%20%7C%20Power%20BI%20%7C%20Excel-48C9B0?style=for-the-badge&logoColor=white"/>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/Cert-PL--300%20In%20Progress-F59E0B?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logoColor=white"/>
-  </td>
-</tr>
-</table>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060612)](https://www.linkedin.com/in/narmatha-annadurai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=060612)](https://codebasics.io/portfolio/Narmatha-Annadurai)
+[![GitHub](https://img.shields.io/badge/GitHub-f0e8ff?style=for-the-badge&logo=github&logoColor=060612&labelColor=1a0a3e)](https://github.com/narmatha0303)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=060612)](https://leetcode.com/u/Narmatha_Annadurai/)
+
+</div>
 
 <br/>
 
-<table width="96%" align="center"><tr><td>
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square&logoColor=white)
+![Tamil Nadu India](https://img.shields.io/badge/Tamil%20Nadu%2C%20India-7c3aed?style=flat-square)
+![PL-300 In Progress](https://img.shields.io/badge/PL--300%20In%20Progress-f59e0b?style=flat-square&logo=microsoftazure&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=narmatha0303&color=7c3aed&style=flat-square&label=Profile+Views)
+
+</div>
+
+<br/>
+
+---
+
+## `narmatha.py`
 
 ```python
-analyst = {
-  "name"       : "Narmatha Annadurai",
-  "role"       : "Data Analyst",
-  "location"   : "India",
-  "philosophy" : "My story doesn't start with a title. It starts with curiosity.",
-  "tools"      : ["Power BI ✅", "SQL ✅", "Excel ✅"],
-  "currently"  : "Levelling up with PL-300 Power BI Certification 🎯",
-  "strengths"  : ["Data Storytelling", "Business Intelligence", "Dashboard Design"],
-  "open_to"    : "Data Analyst roles · Freelance · Collaborations",
-}
+class DataAnalyst:
+
+    name        = "Narmatha Annadurai"
+    location    = "Tamil Nadu, India"
+    role        = "Data & Insights Analyst"
+
+    stack = {
+        "viz"     : ["Power BI ⚡", "DAX", "Excel"],
+        "data"    : ["SQL", "MySQL", "ETL Pipelines"],
+        "code"    : ["Python", "JavaScript"],
+    }
+
+    currently   = "Pursuing PL-300 Certification  →  80% complete 🎯"
+    philosophy  = "Data is just numbers until someone gives it meaning — I'm that someone."
+    open_to     = ["Full-time Roles", "Freelance", "Collaborations"]
 ```
 
-</td></tr></table>
-
 <br/>
 
-## 🛠️ Tech Stack & Proficiency
+---
 
-<table width="96%" align="center">
-<tr>
-  <th align="left">Tool</th>
-  <th align="left">Category</th>
-  <th align="left">Level</th>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> Power BI</td>
-  <td>Data Visualisation</td>
-  <td><img src="https://img.shields.io/badge/█████████████░-95%25-F2C811?style=flat-square"/> ✅</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> SQL / MySQL</td>
-  <td>Database & Querying</td>
-  <td><img src="https://img.shields.io/badge/█████████████░-95%25-4479A1?style=flat-square"/> ✅</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/> Excel</td>
-  <td>Data Analysis</td>
-  <td><img src="https://img.shields.io/badge/█████████████░-95%25-217346?style=flat-square"/> ✅</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/PL--300-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> PL-300</td>
-  <td>Certification</td>
-  <td><img src="https://img.shields.io/badge/████████░░░░░░-60%25-0078D4?style=flat-square"/> 🔄 In Progress</td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> Python</td>
-  <td>Programming</td>
-  <td><img src="https://img.shields.io/badge/██████░░░░░░░░-45%25-3776AB?style=flat-square"/></td>
-</tr>
-<tr>
-  <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> JavaScript</td>
-  <td>Scripting</td>
-  <td><img src="https://img.shields.io/badge/███████░░░░░░░-55%25-F7DF1E?style=flat-square"/></td>
-</tr>
-</table>
-
-<br/>
-
-## 📈 Skill Progress
-
-```
-Power BI     ████████████████████  ✅  Proficient
-SQL          ████████████████████  ✅  Proficient
-Excel        ████████████████████  ✅  Proficient
-PL-300       ████████████░░░░░░░░  🔄  In Progress
-Python       ██████░░░░░░░░░░░░░░  📚  Building
-```
-
-> 3 core analytics tools mastered · PL-300 certification underway
-
-<br/>
-
-## 🚀 Project Dashboard
-
-<table width="96%" align="center">
-<tr>
-  <th align="center">Status</th>
-  <th align="left">Project</th>
-  <th align="left">Description</th>
-  <th align="center">Tools</th>
-  <th align="center">Link</th>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/-ACTIVE-22C55E?style=flat-square"/></td>
-  <td><b>🗳️ TN Election Analysis</b></td>
-  <td>Data-driven analysis of Tamil Nadu Assembly Election using Power BI dashboards & SQL storytelling</td>
-  <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/></td>
-  <td align="center"><a href="https://github.com/narmatha0303/TN-election-2026-analysis">🔗</a></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/-DONE-6C63FF?style=flat-square"/></td>
-  <td><b>🚗 EV Sales Analysis – India</b></td>
-  <td>Strategic market entry analysis for AtliQ Motors entering the Indian EV market</td>
-  <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/></td>
-  <td align="center"><a href="https://github.com/narmatha0303/Electric-Vehicle-Sales-Analysis-India">🔗</a></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/-DONE-6C63FF?style=flat-square"/></td>
-  <td><b>📊 Business Insight 360</b></td>
-  <td>360° BI dashboard — Finance, Sales, Marketing & Supply Chain for executive decisions</td>
-  <td><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square"/></td>
-  <td align="center"><a href="https://github.com/narmatha0303/Business-Insight-360-dashboard">🔗</a></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/-DONE-6C63FF?style=flat-square"/></td>
-  <td><b>🏭 AtliQ Hardware – Sales Intelligence</b></td>
-  <td>Automated sales reporting via stored procedures & triggers for weekly stakeholder reports</td>
-  <td><img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/></td>
-  <td align="center"><a href="https://github.com/narmatha0303/SQL-Project-AtliQ-Hardware-Sales-Intelligence-Reporting-Automation">🔗</a></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/-DONE-6C63FF?style=flat-square"/></td>
-  <td><b>📈 Excel Sales Analytics</b></td>
-  <td>Sales performance analytics using Pivot Tables, advanced formulas & dynamic charts</td>
-  <td><img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/></td>
-  <td align="center"><a href="https://github.com/narmatha0303/Excel_Sales-analytics">🔗</a></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://img.shields.io/badge/-DONE-6C63FF?style=flat-square"/></td>
-  <td><b>🧠 FocusSense Extension</b></td>
-  <td>Chrome extension that tracks distraction patterns & turns every new tab into a career growth moment</td>
-  <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
-  <td align="center"><a href="https://github.com/narmatha0303/FocusSense-Distraction-intelligence-career-engine-for-deep-work">🔗</a></td>
-</tr>
-</table>
-
-<br/>
-
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/narmatha-annadurai">
-    <img src="https://img.shields.io/badge/LinkedIn-narmatha--annadurai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://codebasics.io/portfolio/Narmatha-Annadurai">
-    <img src="https://img.shields.io/badge/Portfolio-Codebasics-6C63FF?style=for-the-badge"/>
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Narmatha_Annadurai/">
-    <img src="https://img.shields.io/badge/LeetCode-Narmatha__Annadurai-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=narmatha0303&color=6C63FF&style=for-the-badge&label=Profile+Views"/>
-</p>
-
-<br/>
+## ⚡ Tech Arsenal
 
 <div align="center">
-  <i>"Data is just numbers until someone gives it meaning — I'm that someone."</i>
+
+| Tool | Category | Proficiency |
+|------|----------|-------------|
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI** | Data Visualisation | `████████████████████` **95%** ✅ |
+| ![SQL](https://img.shields.io/badge/SQL-22d3ee?style=flat-square&logo=mysql&logoColor=black) **SQL / MySQL** | Database & Querying | `████████████████████` **95%** ✅ |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) **Excel** | Data Analysis | `████████████████████` **95%** ✅ |
+| ![DAX](https://img.shields.io/badge/DAX%20%2F%20PL--300-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) **DAX / PL-300** | Certification | `████████████░░░░░░░░` **60%** 🔄 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Programming | `██████░░░░░░░░░░░░░░` **45%** 📚 |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Scripting | `███████░░░░░░░░░░░░░` **55%** 📚 |
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Project Showcase
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🗳️ TN Election 2026 Analysis
+![DONE](https://img.shields.io/badge/-DONE-7c3aed?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-22d3ee?style=flat-square&logo=mysql&logoColor=black)
+
+Data-driven analysis of Tamil Nadu Assembly Election — voter patterns, seat distribution & party performance via interactive Power BI dashboards.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narmatha0303/TN-election-2026-analysis)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 EV Sales Analysis — India
+![DONE](https://img.shields.io/badge/-DONE-7c3aed?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-22d3ee?style=flat-square&logo=mysql&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Strategic market entry analysis for AtliQ Motors — top states, brands & growth segments identified across the Indian EV landscape.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narmatha0303/Electric-Vehicle-Sales-Analysis-India)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Business Insight 360
+![DONE](https://img.shields.io/badge/-DONE-7c3aed?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+360° BI dashboard covering Finance, Sales, Marketing & Supply Chain — built for executive-level decisions at AtliQ Technologies.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narmatha0303/Business-Insight-360-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 AtliQ Hardware — Sales Intelligence
+![DONE](https://img.shields.io/badge/-DONE-7c3aed?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-22d3ee?style=flat-square&logo=mysql&logoColor=black)
+
+Automated sales reporting via stored procedures & triggers — replaced manual Excel-heavy workflows with weekly stakeholder-ready SQL reports.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narmatha0303/SQL-Project-AtliQ-Hardware-Sales-Intelligence-Reporting-Automation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Excel Sales Analytics
+![DONE](https://img.shields.io/badge/-DONE-7c3aed?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+Sales performance analytics using Pivot Tables, advanced formulas & dynamic charts — delivering actionable insights for stakeholders.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narmatha0303/Excel_Sales-analytics)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 FocusSense Chrome Extension
+![DONE](https://img.shields.io/badge/-DONE-7c3aed?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Chrome extension that tracks distraction patterns & turns every new tab into a career growth moment — distraction intelligence meets deep work.
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/narmatha0303/FocusSense-Distraction-intelligence-career-engine-for-deep-work)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Badge | Credential | Issuer | Status |
+|-------|-----------|--------|--------|
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | PL-300 Power BI Data Analyst | Microsoft | 🔄 **60% — In Progress** |
+| ![Codebasics](https://img.shields.io/badge/Codebasics-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Power BI Data Analytics Bootcamp | Codebasics | ✅ Completed |
+| ![Codebasics](https://img.shields.io/badge/Codebasics-22d3ee?style=flat-square&logo=mysql&logoColor=black) | SQL for Data Science | Codebasics | ✅ Completed |
+
+</div>
+
+<br/>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<i>"Data is just numbers until someone gives it meaning — I'm that someone."</i>
+
+<br/><br/>
+
+[![Say Hi on LinkedIn](https://img.shields.io/badge/Say%20Hi%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narmatha-annadurai)
+&nbsp;
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codebasics.io/portfolio/Narmatha-Annadurai)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:48C9B0,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060612,50:1a0a3e,100:060612&height=140&section=footer&fontColor=a78bfa"/>
 </div>
