@@ -63,7 +63,7 @@ class DataAnalyst:
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) **Power BI** | Data Visualisation | `████████████████████` **95%** ✅ |
 | ![SQL](https://img.shields.io/badge/SQL-22d3ee?style=flat-square&logo=mysql&logoColor=black) **SQL / MySQL** | Database & Querying | `████████████████████` **95%** ✅ |
 | ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) **Excel** | Data Analysis | `████████████████████` **95%** ✅ |
-| ![DAX](https://img.shields.io/badge/DAX%20%2F%20PL--300-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) **DAX / PL-300** | Certification | `████████████░░░░░░░░` **60%** 🔄 |
+| ![DAX](https://img.shields.io/badge/DAX%20%2F%20PL--300-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) **DAX / PL-300** | Certification | ``████████████████████` **95%** ✅ |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Programming | `██████░░░░░░░░░░░░░░` **45%** 📚 |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript** | Scripting | `███████░░░░░░░░░░░░░` **55%** 📚 |
 
