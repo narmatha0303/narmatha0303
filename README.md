@@ -1,6 +1,6 @@
-# Hi, I'm Narmatha 👋
+# Hi, I'm Narmatha . A problem solver !!!!👋
 
-I turn messy operational data into decisions leadership actually acts on.
+I turn messy data into decisions leadership actually acts on.
 
 Most of my work starts the same way: an operational process is breaking down, failure logs are piling up, or a team is flying blind. I dig into the raw data, isolate the root cause, build the reporting model, and automate the pipeline so the problem doesn't happen twice.
 
